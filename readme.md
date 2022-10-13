@@ -10,16 +10,16 @@
 
 # learn.microsoft.com
 
-- [Dynamics 365](https://docs.microsoft.com/de-de/dynamics365/)
-	- [Business Central](https://docs.microsoft.com/de-DE/dynamics365/business-central/)
-    	- [Development and Administration](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/)
-	- [NAV](https://docs.microsoft.com/de-de/previous-versions/dynamics/)
-    	- [Dynamics NAV 2016](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2016/hh173988(v=nav.90))
-    	- [Dynamics NAV 2015](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2015/hh173988(v=nav.80))
-		- [Dynamics NAV 2013 R2](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.71))
-		- [Dynamics NAV 2013](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2013/hh173988(v=nav.70))
-		- [Dynamics NAV 2009 R2](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2009r2/gg502505(v=nav.60))
-		- [Dynamics NAV 2009](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2009/dd355204(v=nav.60))
+- [Dynamics 365](https://learn.microsoft.com/dynamics365/)
+	- [Business Central](https://learn.microsoft.com/dynamics365/business-central/)
+    	- [Development and Administration](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/)
+	- [NAV](https://learn.microsoft.com/previous-versions/dynamics/)
+    	- [Dynamics NAV 2016](https://learn.microsoft.com/previous-versions/dynamicsnav-2016/hh173988(v=nav.90))
+    	- [Dynamics NAV 2015](https://learn.microsoft.com/previous-versions/dynamicsnav-2015/hh173988(v=nav.80))
+		- [Dynamics NAV 2013 R2](https://learn.microsoft.com/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.71))
+		- [Dynamics NAV 2013](https://learn.microsoft.com/previous-versions/dynamicsnav-2013/hh173988(v=nav.70))
+		- [Dynamics NAV 2009 R2](https://learn.microsoft.com/previous-versions/dynamicsnav-2009r2/gg502505(v=nav.60))
+		- [Dynamics NAV 2009](https://learn.microsoft.com/previous-versions/dynamicsnav-2009/dd355204(v=nav.60))
 
 # Git-Repositories
 
