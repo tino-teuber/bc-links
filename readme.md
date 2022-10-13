@@ -8,8 +8,22 @@
 - https://thinkaboutit.be/2020/02/quick-tip-interesting-aka-ms-links-for-business-central/
 - https://sparebrained.com/map/
 
+# learn.microsoft.com
+
+- [Dynamics 365](https://docs.microsoft.com/de-de/dynamics365/)
+	- [Business Central](https://docs.microsoft.com/de-DE/dynamics365/business-central/)
+    	- [Development and Administration](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/)
+	- [NAV](https://docs.microsoft.com/de-de/previous-versions/dynamics/)
+    	- [Dynamics NAV 2016](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2016/hh173988(v=nav.90))
+    	- [Dynamics NAV 2015](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2015/hh173988(v=nav.80))
+		- [Dynamics NAV 2013 R2](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2013r2/hh173988(v=nav.71))
+		- [Dynamics NAV 2013](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2013/hh173988(v=nav.70))
+		- [Dynamics NAV 2009 R2](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2009r2/gg502505(v=nav.60))
+		- [Dynamics NAV 2009](https://docs.microsoft.com/de-de/previous-versions/dynamicsnav-2009/dd355204(v=nav.60))
 
 # Git-Repositories
+
+## Microsoft
 
 - https://github.com/microsoft/AL AL language code samples for developing extensions for Dynamics 365 Business Central
 - https://github.com/microsoft/ALAppExtensions
@@ -21,12 +35,19 @@ Repository for collaboration on Microsoft AL application add-on and localization
 - https://github.com/microsoft/nav-arm-templates/ ARM (Azure Resource Manager) templates for Microsoft Dynamics NAV
 - https://github.com/microsoft/cal-open-library *(Archived)* C/AL Open Library is a repository for .NET Interop wrappers that will be included into Dynamics 365 for Financials and usable from Extensions V2
 - https://github.com/microsoft/bc2adls Exporting data from Dynamics 365 Business Central to Azure data lake storage
-- https://github.com/microsoft/al-go AL-Go for GitHub is a set of GitHub templates and actions, which can be used to setup and maintain professional DevOps processes for your Business Central AL projects.
+- https://github.com/microsoft/AL-Go AL-Go for GitHub is a set of GitHub templates and actions, which can be used to setup and maintain professional DevOps processes for your Business Central AL projects.
+- https://github.com/microsoft/AL-Go-AppSource This template repository can be used for managing AppSource Apps for Business Central.
+- https://github.com/microsoft/AL-Go-PTE This template repository can be used for managing Per Tenant Extensions for Business Central.
+- https://github.com/microsoft/AL-Go-Actions
 - Dynamics NAV & Dynamics 365 Business Central Help / Dokumentation
   - https://github.com/microsoftDocs/dynamics365smb-doc Source for the [application help content for Dynamics 365 Business Central](https://learn.microsoft.com/dynamics365/business-central/)
   - https://github.com/microsoftDocs/dynamics365smb-devitpro-pb Source for the [partner-focused content for Microsoft Dynamics 365 Business Central](https://learn.microsoft.com/dynamics365/business-central/dev-itpro)
   - https://github.com/microsoftDocs/nav-content *(Archived)* Source for the [application Help for Microsoft Dynamics NAV](https://learn.microsoft.com/dynamics-nav-app/)
   - https://github.com/microsoftDocs/nav-content.de-de Source for the [application Help for Microsoft Dynamics NAV in German](https://learn.microsoft.com/dynamics-nav-app/)
+
+## Other
+
+- https://github.com/StefanMaron/MSDyn365BC.Code.History Contains the Microsoft Business Central Code. Updated each month.
 
 # aka.ms Collection
 
