@@ -9,6 +9,25 @@
 - https://sparebrained.com/map/
 
 
+# Git-Repositories
+
+- https://github.com/microsoft/AL AL language code samples for developing extensions for Dynamics 365 Business Central
+- https://github.com/microsoft/ALAppExtensions
+Repository for collaboration on Microsoft AL application add-on and localization extensions for Microsoft Dynamics 365 Business Central.
+- https://github.com/microsoft/BCTech In the Business Central development team, we are passionate about technology. If you are a Business Central developer or simply a BC tech enthusiast and you share the same passion, this repo is for you
+- https://github.com/microsoft/navcontainerhelper Official Microsoft repository for BcContainerHelper, a PowerShell module, which makes it easier to work with Business Central Containers on Docker.
+- https://github.com/microsoft/nav-docker Official Microsoft repository for Dynamics NAV in Docker resources. It has not been decided yet, to which extend Microsoft will ship Docker images with NAV, so everything in this repo is work in progress and might be subject to deletion.
+- https://github.com/microsoft/BCUpgrade Unofficial Documentation on how to upgrade to the latest version of Business Central
+- https://github.com/microsoft/nav-arm-templates/ ARM (Azure Resource Manager) templates for Microsoft Dynamics NAV
+- https://github.com/microsoft/cal-open-library *(Archived)* C/AL Open Library is a repository for .NET Interop wrappers that will be included into Dynamics 365 for Financials and usable from Extensions V2
+- https://github.com/microsoft/bc2adls Exporting data from Dynamics 365 Business Central to Azure data lake storage
+- https://github.com/microsoft/al-go AL-Go for GitHub is a set of GitHub templates and actions, which can be used to setup and maintain professional DevOps processes for your Business Central AL projects.
+- Dynamics NAV & Dynamics 365 Business Central Help / Dokumentation
+  - https://github.com/microsoftDocs/dynamics365smb-doc Source for the [application help content for Dynamics 365 Business Central](https://learn.microsoft.com/dynamics365/business-central/)
+  - https://github.com/microsoftDocs/dynamics365smb-devitpro-pb Source for the [partner-focused content for Microsoft Dynamics 365 Business Central](https://learn.microsoft.com/dynamics365/business-central/dev-itpro)
+  - https://github.com/microsoftDocs/nav-content *(Archived)* Source for the [application Help for Microsoft Dynamics NAV](https://learn.microsoft.com/dynamics-nav-app/)
+  - https://github.com/microsoftDocs/nav-content.de-de Source for the [application Help for Microsoft Dynamics NAV in German](https://learn.microsoft.com/dynamics-nav-app/)
+
 # aka.ms Collection
 
 ## ARM templates
