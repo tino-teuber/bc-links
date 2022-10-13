@@ -109,3 +109,10 @@
 - https://aka.ms/BCUserInsights (User insights panel for Dynamics 365 Business Central)
 - https://aka.ms/BCAll (Resources for Partners)
 - https://aka.ms/BCExcelSamples GitHub-Repo contains instructions for how you can use different Excel and Power Query features in Excel layouts. The repo also have guidance on things you might want to do in a Excel report once it has been generated.
+
+## History
+
+- [Navision from PC-Plus to Business Central](https://dynamicsuser.net/nav/b/admin/posts/navision-from-pc-plus-to-business-central)
+- [History of Navision from 1983 till today](https://dynamicsuser.net/nav/w/history)
+- [Microsoft Dynamics NAV Overview](https://social.technet.microsoft.com/wiki/contents/articles/18248.microsoft-dynamics-nav-overview.aspx)
+- [Blast from the Past: Navision 3.56](https://www.hougaard.com/blast-from-the-past-navision-3-56/) The first episode is all about Navision 3.56. This is the grandfather of Business Central, and many of the things we take granted today originated in 3.56 back in 1990.
