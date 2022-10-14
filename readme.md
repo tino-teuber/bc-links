@@ -2,7 +2,7 @@
 
 - [https://businesscentralgeek.com/](https://businesscentralgeek.com/) Alberto Soben
 
-# Ressourcen Collections
+# Ressource Collections
 
 - [https://bit.ly/bcresources](https://bit.ly/bcresources) Microsoft Dynamics 365 Business Central: Links to Information and Resources
 - [https://thinkaboutit.be/2020/02/quick-tip-interesting-aka-ms-links-for-business-central/](https://thinkaboutit.be/2020/02/quick-tip-interesting-aka-ms-links-for-business-central/)
