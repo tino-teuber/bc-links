@@ -49,6 +49,48 @@ Repository for collaboration on Microsoft AL application add-on and localization
 
 - [https://github.com/StefanMaron/MSDyn365BC.Code.History](https://github.com/StefanMaron/MSDyn365BC.Code.History) Contains the Microsoft Business Central Code. Updated each month.
 
+# Visual Studio Code Extensions
+
+- [AL Language](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) (from Microsoft; 222.645 installs) AL development tools for Dynamics 365 Business Central
+- [waldo's CRS AL Language Extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension) (form waldo; 134.981 installs) Make working with the (Dynamics NAV / 365) AL Language easier and more efficient
+- [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline) (from Andrzej Zwierzchowski; 132.326 installs) AZ AL Development Tools: AL code outline, object browser, object creators
+- [AL Object Designer](https://marketplace.visualstudio.com/items?itemName=martonsagi.al-object-designer) (from Márton Sági; 82.548 installs) Object Designer optimized for (Dynamics 365 Business Central) AL Language development
+- [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper) (from Rasmus Aaen; 54.432 installs) Intellisense to assign correct variable names in AL
+- [AL Toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox) (from Bart Permentier; 50.337 installs) AL Language Regions and Snippets
+- [AL CodeActions](https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions) (from David Feldhoff; 44.731 installs) Adds codeactions to the AL language
+- [AL Test Runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner) (from James Pearson; 43.294 installs) Test runner for AL tests for Business Central development
+- [AL Extension Pack](https://marketplace.visualstudio.com/items?itemName=waldo.al-extension-pack) (from waldo; 39.351 installs) Everything you need for AL development (Microsoft Dynamics 365 Business Central)
+- [AL Navigator](https://marketplace.visualstudio.com/items?itemName=wbrakowski.al-navigator) (from Waldemar Brakowski; 37.844 installs) Create variables and parameters like a boss. Navigate through al files with awesome shortcuts.
+- [AL XML Documentation](https://marketplace.visualstudio.com/items?itemName=365businessdevelopment.bdev-al-xml-doc) (from 365 business development; 37.140 installs) Generate XML documentation comments for AL source code and create markdown documentation from it.
+- [NAB AL Tools](https://marketplace.visualstudio.com/items?itemName=nabsolutions.nab-al-tools) (from NAB Solutions AB; 36.314 installs) Development and translation management tool for AL language and Microsoft Dynamics 365 Business Central extensions
+- [AL Object ID Ninja](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid) (from Vjeko.com; 25.291 installs) Manage object IDs in multi-user environments with mind-boggling simplicity.
+- [AL Formatter](https://marketplace.visualstudio.com/items?itemName=rasmus.al-formatter) (from Rasmus Aaen; 24.558 installs) Formatting AL code, fixes indenting, casing and variable sorting
+- [BusinessCentral.LinterCop](https://marketplace.visualstudio.com/items?itemName=StefanMaron.businesscentral-lintercop) (from Stefan Maron; 20.363 installs) Provides Linting for the AL Language (Business Central)
+- [Dynamics NAV C/AL](https://marketplace.visualstudio.com/items?itemName=zodiacfireworks.vscode-c-al) (from zodiacfireworks; 14.124 installs) Dynamics NAV C/AL programming language support for Visual Studio Code
+- [AL Structure Creator](https://marketplace.visualstudio.com/items?itemName=EdySpider.alstructurecreator) (from EdySpider; 5.042 installs) Create folder structure for AL projects
+- [AL Snippets](https://marketplace.visualstudio.com/items?itemName=mynavblog-kbialowas.al-snippets) (from Krzysztof Bialowas; 3.805 installs) The myNAVblog extension for AL with custom Snippets
+- [AL Studio](https://marketplace.visualstudio.com/items?itemName=dynasist.al-studio) (from Dynasist Solutions Kft.; 3.571 installs) Visual editor/navigation tools for AL development.
+- [AL Object Helper](https://marketplace.visualstudio.com/items?itemName=DSaladin.al-object-helper) (from DSaladin; 2.082 installs) Quick and easy access to any al object in your project
+- [AL Extension Pack](https://marketplace.visualstudio.com/items?itemName=EdySpider.alextensionpack) (from EdySpider; 1.644 installs) Extensions for D365BC AL development
+- [ABS C/AL Tools Extension](https://marketplace.visualstudio.com/items?itemName=alnabusiness.abs-cal-extension) (from Alna Business; 1.320 installs) Makes working with the (Dynamics NAV / 365) C/AL easier and more efficient.
+- [AL Productivity Tools](https://marketplace.visualstudio.com/items?itemName=MSNRaju.al-productivity-tools) (from MSN Raju; 1.275 installs) Microsoft Dynamics 365 Business Central - AL Productivity Tools
+- [Fix AL File Names](https://marketplace.visualstudio.com/items?itemName=MSNRaju.fix-al-file-names) (from MSN Raju; 1.071 installs) Change AL file names as per the best practices
+- [AL Central](https://marketplace.visualstudio.com/items?itemName=bcentral.alcentral) (from bcentral; 749 installs) Generate E/R diagrams at BCentral.dev
+- [AL Variable Quickfix](https://marketplace.visualstudio.com/items?itemName=HimanshuSharma.vscode-al-variable-quickfixes) (from Himanshu Sharma; 558 installs) Check and update the AL variables as per the coding guidelines
+- [Mysolution AL Helper](https://marketplace.visualstudio.com/items?itemName=MysolutionBV.mysalhelper) (from Mysolution BV; 366 installs) VS Code Extension to aid the Mysolution Developer doing his daily source control tasks
+- [NAV24 Business Central Tools](https://marketplace.visualstudio.com/items?itemName=abystrek.nav24businesscentraltools) (from NAV24; 249 installs) A VSCode extenstion for NAV24
+- [AL Translation Center](https://marketplace.visualstudio.com/items?itemName=daniel-nt.al-translation-center) (from Daniel; 235 installs) Extension for manage translations and develop faster with AL Language Projects
+- [AL Project Scaffold](https://marketplace.visualstudio.com/items?itemName=RolandThompson.al-scaffold) (form Roland Thompson; 138 installs) Scaffolds an AL Project with the defaults
+- [AL KTC Dev](https://marketplace.visualstudio.com/items?itemName=KTC-GmbH.al-ktc-dev) (from KTC-Karlsruhe Technology Consulting GmbH; 132 installs) VS Code extensions we use for AL development.
+- [AL Pragma Explorer](https://marketplace.visualstudio.com/items?itemName=vjeko.al-pragma-explorer) (from Vjeko.com; 117 installs) Presents and manages precompiler conditional directives for AL Language workspaces
+- [AL Object Mapper](https://marketplace.visualstudio.com/items?itemName=MarcoLeoni.alobjectmapper) (from Marco Leoni; 71 installs) Map AL Objects in the current project
+- [AL GetReservedObjects](https://marketplace.visualstudio.com/items?itemName=UrpoKo.getreservedobjects) (from Urpo Kotipalo; 60 installs) Finds out all used object numbers from an AL project/workspace and writes them to a text file.
+- [NAV-X AL Helper](https://marketplace.visualstudio.com/items?itemName=nav-x.nav-x-al-helper) (from NAV-X LLC; 38 installs) NAV-X Visual Studio Code extension that assists in development and creation of AL Apps
+- [AL Multilingual](https://marketplace.visualstudio.com/items?itemName=VfficeInc.almultilingual) (from Vffice Inc.; 23 installs) This VSCode extension verifies the syntax of translations in comments for Al programming.
+- [NT AL Dev Tools](https://marketplace.visualstudio.com/items?itemName=NakulTyagi.nt-al-dev-tools) (from Nakul Tyagi; 21 installs) NT AL Dev Tools allows you to fix the Warning's and Error's of your application.
+- [Simplanova AL Tools (SALT)](https://marketplace.visualstudio.com/items?itemName=Simplanova.simplanovasalt) (from Simplanova; 12 installs) Simplanova AL Tools (short – SALT) – a platform of tools that support you throughout your full Business Central C/AL code to AL conversion (upgrade).
+- [AL Docker Management](https://marketplace.visualstudio.com/items?itemName=Aaens.al-docker-mgt) (from Aaens; 2 installs) Manage Business Central Docker Container for AL Development.
+
 # aka.ms Collection
 
 ## ARM templates
