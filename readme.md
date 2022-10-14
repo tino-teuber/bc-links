@@ -40,7 +40,7 @@ Repository for collaboration on Microsoft AL application add-on and localization
 - [https://github.com/microsoft/AL-Go-PTE](https://github.com/microsoft/AL-Go-PTE) This template repository can be used for managing Per Tenant Extensions for Business Central.
 - [https://github.com/microsoft/AL-Go-Actions](https://github.com/microsoft/AL-Go-Actions)
 - Dynamics NAV & Dynamics 365 Business Central Help / Dokumentation
-  - [https://github.com/microsoftDocs/dynamics365smb-doc](https://github.com/microsoftDocs/dynamics365smb-doc) Source for the [application help content for Dynamics 365 Business Central](https://learn.microsoft.com/dynamics365/business-central/)
+  - [https://github.com/microsoftDocs/dynamics365smb-docs](https://github.com/microsoftDocs/dynamics365smb-docs) Source for the [application help content for Dynamics 365 Business Central](https://learn.microsoft.com/dynamics365/business-central/)
   - [https://github.com/microsoftDocs/dynamics365smb-devitpro-pb](https://github.com/microsoftDocs/dynamics365smb-devitpro-pb) Source for the [partner-focused content for Microsoft Dynamics 365 Business Central](https://learn.microsoft.com/dynamics365/business-central/dev-itpro)
   - [https://github.com/microsoftDocs/nav-content](https://github.com/microsoftDocs/nav-content) *(Archived)* Source for the [application Help for Microsoft Dynamics NAV](https://learn.microsoft.com/dynamics-nav-app/)
   - [https://github.com/microsoftDocs/nav-content.de-de](https://github.com/microsoftDocs/nav-content.de-de) Source for the [application Help for Microsoft Dynamics NAV in German](https://learn.microsoft.com/dynamics-nav-app/)
