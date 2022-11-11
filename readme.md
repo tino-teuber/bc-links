@@ -119,6 +119,7 @@
   - [https://aka.ms/BCTelemetryReport](https://aka.ms/BCTelemetryReport) Power BI App *Dynamics 365 Business Central Usage Analytics*
   - [https://aka.ms/BCTelemetryReportBeta](https://aka.ms/BCTelemetryReportBeta)
   - [https://aka.ms/BCTelemetry-ISV-App-Beta](https://aka.ms/BCTelemetry-ISV-App-Beta)
+  - [https://aka.ms/BC-Telemetry-Checklist](https://aka.ms/BC-Telemetry-Checklist) What Power Point presentations are available?
 - Office Hours
   - [https://aka.ms/BCOfficeHours](https://aka.ms/BCOfficeHours) Business Central Office Hours Calls
   - [https://aka.ms/BCOfficeHoursRecordings](https://aka.ms/BCOfficeHoursRecordings) Recordings of Business Central Office Hours Calls
